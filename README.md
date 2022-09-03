@@ -33,7 +33,7 @@ Recently, I finished a research project and someday I will publish/write more ab
 
 <hr>
 
-<h3 align="center"/>:computer: Languages and Tools</h3>
+<h3 align="center"/>:computer: Programming Languages and Tools</h3>
 
 <p align="center"/>
 <a href="https://www.github.com" target="_blank" rel="noreferrer"/> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github" width="40" height="40"/> </a> 

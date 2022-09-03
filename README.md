@@ -36,31 +36,18 @@ Recently, I finished a research project and someday I will publish/write more ab
 <h3 align="center"/>:computer: Languages and Tools</h3>
 
 <p align="center"/>
-
 <a href="https://www.github.com" target="_blank" rel="noreferrer"/> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github" width="40" height="40"/> </a> 
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"/> <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="git" width="40" height="40"/> </a> 
-
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"/> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a> 
-
 <a href="https://www.java.com" target="_blank" rel="noreferrer"/> <img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="java" width="40" height="40"/> </a> 
-
 <a href="https://www.python.org" target="_blank" rel="noreferrer"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> </a> 
-
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"/> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> </a> 
-
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"/> <img src="https://seeklogo.com//images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="selenium" width="40" height="40"/> </a> 
-
 <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" width="40" height="40"/> </a> 
-
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/> </a> 
-
 <a href="https://heroku.com" target="_blank" rel="noreferrer"/> <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku" width="40" height="40"/> </a> 
-
 </p>
 
 <hr>

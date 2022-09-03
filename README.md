@@ -1,7 +1,7 @@
 <h1 align="center"/> Olá! Hello! Bonjour! 
 <br>
 Welcome to my GitHub!</h1>
-<p align="center"/>Computer Science undergraduate, AI enthusiast, passionate about music and owner of two adorable cats.</p>
+<p align="center"/>◦ Computer Science ◦ AI ◦ Music ◦ NLP ◦</p>
 <hr>
 <h3 align="left"/>:star: About Me</h3>
 <p align="left"/> :blush: I'm Victória Grisi, an Computer Science undergraduate at Universidade Federal da Paraíba (UFPB) in Brazil. 

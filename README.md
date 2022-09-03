@@ -7,8 +7,8 @@ Welcome to my GitHub!</h1>
 
 <h3 align="center"/>:star: About Me</h3>
 
-<p align="left"/> :blush: Hi! I'm Victória, a Computer Science undergraduate at Universidade Federal da Paraíba (UFPB) in Brazil. 
-I was born in João Pessoa, I'm 21 years old at this moment and I go by she/her pronouns. I'm passionate about AIs, sci-fi and psychological horror media, roguelike games, music, singing and learning about other cultures. Right now, I speak two languages (english and french) besides my natural one (brazilian portuguese), but I still want to learn german and japanese.</p>
+<p align="left"/> :blush: Hi! I'm <b/>Victória</b>, a Computer Science undergraduate at Universidade Federal da Paraíba (UFPB) in Brazil. 
+I'm <b/>brazilian</b> and was born in <b/>João Pessoa</b>, I'm <b/>21 years old</b> at this moment and I go by <b/>she/her</b> pronouns. I'm passionate about AIs, sci-fi and psychological horror media, roguelike games, music, singing and learning about other cultures. Right now, I speak two languages (english and french) besides my natural one (brazilian portuguese), but I still want to learn german and japanese.</p>
 
 <p align="left"/> :mortar_board: I'm really passionate about technology and computers since I was a child, and I'm glad my student object is also my main passion in life. I am part of the team of directors at <a href="https://www.linkedin.com/company/tailufpb/"/> TAIL </a> (Technology and Artificial Intelligence League) 
 and I'm also a researcher at <a href="https://aria.ci.ufpb.br"/> ARIA </a> (ARtificial Intelligence Applications laboratory), both at UFPB. Recently, I finished a research project and someday I will publish/write more about it. </p>

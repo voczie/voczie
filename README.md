@@ -21,7 +21,7 @@ and I'm also a researcher at <a href="https://aria.ci.ufpb.br"/> ARIA </a> (ARti
 
 <p align="left"/> ◦ :brazil: ◦ Como sou natural do Brasil, português é minha língua materna. Decidi que iria fazer meu perfil do GitHub em inglês apenas para torná-lo universal, levando em consideração que inglês é a língua franca aqui no Ocidente. Parte de mim queria colocar o meu perfil com tradução para as três línguas que falo, mas isso o tornaria desnecessariamente grande. </p>
 
-<p align="left"/> ◦ :us: ◦ I'm able to talk, read and write decently in english since I was 14 years old. I've always communicate online with English speaking countries natives, so it naturally grew on me throughout the years. </p>
+<p align="left"/> ◦ :us: ◦ I'm able to talk, read and write decently in english since I was 14 years old. I've always communicate online with natives of English speaking countries, so it naturally grew on me throughout the years. </p>
 
 <p align "left"/> ◦ :fr: ◦ Finalement, je parle un peu de français (je pense que mon niveau c'est proche de B2, mais ce n'est pas oficiel). J'aime la langue française, même si je ne le pratique pas beaucoup. J'essaie d'apprendre à chanter en français, mais c'est difficile parce que ce n'est pas ma langue maternele, ni ma deuxième langue. </p>
 

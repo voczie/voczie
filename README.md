@@ -19,7 +19,7 @@ Recently, I finished a research project and someday I will publish/write more ab
 
 <p align="left"/> :robot: When the subject is AI, I'm absolutely <i/> bonkers </i> about it. I've been learning about NLP (Natural Language Processing) recently, but I'm also interested in RL (Reinforcement Learning) and <i/> any </i> type of GANs (Generative Adversarial Network)!  I intend to work with AIs in my soon-to-be professional career. </p>
 
-<p align="left"/> :books: Most of the time I work with Python, mainly because it's perfect for my AI studies, but, likewise, I'm able to program decently in C and Java. I've been wanting to study Rust soon and <i/> maybe </i> TypeScript in the future. Beside Artificial Intelligence, I also like working with backend. I already worked with it, mostly using Flask, to create an API (Application Programming Interface) for a TCE-PB (Tribunal de Contas do Estado da Paraíba/State Audit Court of Paraíba) project. I do not intend learning frontend technologies anytime soon, but I will if needed. </p>
+<p align="left"/> :books: Most of the time I work with Python, mainly because it's perfect for my AI studies, but, likewise, I'm able to program decently in C and Java. I've been wanting to study Rust soon and <i/> maybe </i> TypeScript in the future. Beside Artificial Intelligence, I also like working with backend. I already worked with it, mostly using Flask, by creating an API (Application Programming Interface) for a TCE-PB (Tribunal de Contas do Estado da Paraíba/State Audit Court of Paraíba) project. I do not intend learning frontend technologies anytime soon, but I will if needed. </p>
 
 <hr>
 

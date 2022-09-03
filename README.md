@@ -4,7 +4,7 @@ Welcome to my GitHub!</h1>
 <p align="center"/>◦ Computer Science ◦ AI ◦ Music ◦ NLP ◦</p>
 <hr>
 <h3 align="center"/>:star: About Me</h3>
-<p align="left"/> :blush: I'm Victória Grisi, an Computer Science undergraduate at Universidade Federal da Paraíba (UFPB) in Brazil. 
+<p align="left"/> :blush: Hi! I'm Victória, an Computer Science undergraduate at Universidade Federal da Paraíba (UFPB) in Brazil. 
 I was born in João Pessoa and I'm 21 years old at this moment. 
 I'm passionate about AIs, sci-fi and psychological horror media, roguelike games, music, singing and learning about other cultures. </p>
 

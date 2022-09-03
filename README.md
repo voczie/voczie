@@ -50,8 +50,8 @@ and I'm also a researcher at <a href="https://aria.ci.ufpb.br"/> ARIA </a> (ARti
 <h3 align="center"/> :trophy: GitHub Status </h3>
 
 <p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=voczie&count_private=true&show_icons=true&theme=dark" alt="voczie stats"/> 
-&nbsp; 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=voczie&count_private=true&show_icons=true&theme=dark" alt="voczie stats"/>
+<br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voczie&layout=compact&theme=dark" alt="voczie languages" width="495" height="195"/> </p>
 
 <hr>

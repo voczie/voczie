@@ -8,14 +8,10 @@ Welcome to my GitHub!</h1>
 <h3 align="center"/>:star: About Me</h3>
 
 <p align="left"/> :blush: Hi! I'm Victória, a Computer Science undergraduate at Universidade Federal da Paraíba (UFPB) in Brazil. 
-I was born in João Pessoa and I'm 21 years old at this moment. 
-I'm passionate about AIs, sci-fi and psychological horror media, roguelike games, music, singing and learning about other cultures. </p>
+I was born in João Pessoa, I'm 21 years old at this moment and I go by she/her pronouns. I'm passionate about AIs, sci-fi and psychological horror media, roguelike games, music, singing and learning about other cultures. Right now, I speak two languages (english and french) besides my natural one (brazilian portuguese), but I still want to learn german and japanese.</p>
 
-<p align="left"/> :mortar_board: I'm really passionate about technology and computers since I was a child, and I'm glad my student object is also my main passion in life. I am part of the team of directors at 
-<a href="https://www.linkedin.com/company/tailufpb/"/> TAIL </a> (Technology and Artificial Intelligence League) 
-and I'm also a researcher at 
-<a href="https://aria.ci.ufpb.br"/> ARIA </a> (ARtificial Intelligence Applications laboratory), both at UFPB.
-Recently, I finished a research project and someday I will publish/write more about it. </p>
+<p align="left"/> :mortar_board: I'm really passionate about technology and computers since I was a child, and I'm glad my student object is also my main passion in life. I am part of the team of directors at <a href="https://www.linkedin.com/company/tailufpb/"/> TAIL </a> (Technology and Artificial Intelligence League) 
+and I'm also a researcher at <a href="https://aria.ci.ufpb.br"/> ARIA </a> (ARtificial Intelligence Applications laboratory), both at UFPB. Recently, I finished a research project and someday I will publish/write more about it. </p>
 
 <p align="left"/> :robot: When the subject is AI, I'm absolutely <i/> bonkers </i> about it. I've been learning about NLP (Natural Language Processing) recently, but I'm also interested in RL (Reinforcement Learning) and <i/> any </i> type of GANs (Generative Adversarial Network)!  I intend to work with AIs in my soon-to-be professional career. </p>
 
@@ -27,7 +23,7 @@ Recently, I finished a research project and someday I will publish/write more ab
 
 <p align="left"/> :brazil: Como sou natural do Brasil, português é minha língua materna. Decidi que iria fazer meu perfil do GitHub em inglês apenas para torná-lo universal, levando em consideração que inglês é a língua franca aqui no Ocidente. Parte de mim queria colocar o meu perfil com tradução para as três línguas que falo, mas isso o tornaria desnecessariamente grande. </p>
 
-<p align="left"/> :us: I'm able to talk, read and write decently in english since I was 14 years old. I've always communicated online with english speaking countries natives, so it grew through the years. </p>
+<p align="left"/> :us: I'm able to talk, read and write decently in english since I was 14 years old. I've always communicate online with english speaking countries natives, so it naturally grew on me throughout the years. </p>
 
 <p align "left"/> :fr: Finalement, je parle un peu de français (je pense que mon niveau c'est proche de B2, mais ce n'est pas oficiel). J'aime la langue française, même si je ne le pratique pas beaucoup. J'essaie d'apprendre à chanter en français, mais c'est difficile parce que ce n'est pas ma langue maternele, ni ma deuxième langue. </p>
 

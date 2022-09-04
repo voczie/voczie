@@ -1,6 +1,6 @@
 <h1 align="center"/> Olá! Hello! Bonjour! <br> Welcome to my GitHub! </h1>
 <p align="center"/>◦ Computer Science ◦ AI ◦ Music ◦ NLP ◦</p>
-
+<p align="center"/>◦ :brazil: ◦ :us: ◦ :fr: ◦</p>
 <hr>
 
 <h3 align="center"/> :star: About Me </h3>
@@ -9,7 +9,7 @@
 I'm <b/>brazilian</b> and was born in <b/>João Pessoa</b>, I'm <b/>21 years old</b> at this moment and I go by <b/>she/her</b> pronouns. I'm passionate about AIs, sci-fi and psychological horror media, roguelike games, music, singing and learning about other cultures. Right now, I speak two languages (English and French) besides my natural one (Brazilian Portuguese), but I still want to learn german and japanese. </p>
 
 <p align="left"/> ◦ :mortar_board: ◦ I'm really passionate about technology and computers since I was a child, and I'm glad my study object is also my main passion in life. I am part of the team of directors at <a href="https://www.linkedin.com/company/tailufpb/"/> TAIL </a> (Technology and Artificial Intelligence League) 
-and I'm also a researcher at <a href="https://aria.ci.ufpb.br"/> ARIA </a> (ARtificial Intelligence Applications laboratory), both at UFPB. Recently, I finished a research project and someday I will publish/write more about it. </p>
+and I'm also a researcher at <a href="https://aria.ci.ufpb.br"/> ARIA </a> (Artificial Intelligence Applications Laboratory), both at UFPB. Recently, I finished a research project and someday I will publish/write more about it. </p>
 
 <p align="left"/> ◦ :robot: ◦ When the subject is AI, I'm absolutely <i/> bonkers </i> about it. I've been learning about NLP (Natural Language Processing) recently, but I'm also interested in RL (Reinforcement Learning) and <i/> any </i> type of GANs (Generative Adversarial Network)!  I intend to work with AIs in my soon-to-be professional career. </p>
 

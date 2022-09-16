@@ -59,8 +59,8 @@ and I'm also a researcher at <a href="https://aria.ci.ufpb.br"/> ARIA </a> (Arti
 <h3 align="center"/> :mailbox: How to Contact Me </h3>
 
 <p align="center"/>
+<a href="https://www.canva.com/design/DAFMVnL8cTs/uDCepom0xhnNAqsNZkfKOQ/view?utm_content=DAFMVnL8cTs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noreferrer"/> <img src="https://www.svgrepo.com/show/281753/curriculum.svg" alt="curriculum vitae" width="50" height="50"/> </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=maria.grisi@academico.ufpb.br" target="_blank" rel="noreferrer"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" width="45" height="50"/> </a> 
-<a href="https://www.linkedin.com/in/maria-victória-grisi-82a1a9186/" target="_blank" rel="noreferrer"/> <img src="https://files.brandlogos.net/svg/PjKl3aKXeF/linkedin-logo-59098z38_brandlogos.net.svg" alt="linkedin" width="50" height="50" /> </a> 
+<a href="www.linkedin.com/in/victoria-grisi" target="_blank" rel="noreferrer"/> <img src="https://files.brandlogos.net/svg/PjKl3aKXeF/linkedin-logo-59098z38_brandlogos.net.svg" alt="linkedin" width="50" height="50" /> </a> 
 <a href="http://lattes.cnpq.br/1262251001323024" target="_blank" rel="noreferrer"/> <img src="https://www.svgrepo.com/show/228345/job-search-search.svg" alt="lattes" width="50" height="50"/> </a> 
-<a href="https://www.canva.com/design/DAFMVnL8cTs/uDCepom0xhnNAqsNZkfKOQ/view?utm_content=DAFMVnL8cTs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank" rel="noreferrer"/> <img src="https://www.svgrepo.com/show/281753/curriculum.svg" alt="curriculum vitae" width="50" height="50"/> </a> 
 </p>
